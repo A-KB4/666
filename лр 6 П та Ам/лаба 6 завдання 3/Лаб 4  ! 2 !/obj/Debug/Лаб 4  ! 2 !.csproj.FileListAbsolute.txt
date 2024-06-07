@@ -1,0 +1,55 @@
+C:\Users\Володимир\source\repos\Лаб 4  ! 2 !\Лаб 4  ! 2 !\bin\Debug\Лаб 4  ! 2 !.exe.config
+C:\Users\Володимир\source\repos\Лаб 4  ! 2 !\Лаб 4  ! 2 !\bin\Debug\Лаб 4  ! 2 !.exe
+C:\Users\Володимир\source\repos\Лаб 4  ! 2 !\Лаб 4  ! 2 !\bin\Debug\Лаб 4  ! 2 !.pdb
+C:\Users\Володимир\source\repos\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.csproj.AssemblyReference.cache
+C:\Users\Володимир\source\repos\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб_4____2__.fMain.resources
+C:\Users\Володимир\source\repos\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб_4____2__.Properties.Resources.resources
+C:\Users\Володимир\source\repos\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.csproj.GenerateResource.cache
+C:\Users\Володимир\source\repos\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.csproj.CoreCompileInputs.cache
+C:\Users\Володимир\source\repos\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.exe
+C:\Users\Володимир\source\repos\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.pdb
+C:\Users\Володимир\source\repos\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб_3___2__.fPlane.resources
+C:\Users\Володимир\Desktop\Заграй лабораторні\Лаб 4  ! 2 !\Лаб 4  ! 2 !\bin\Debug\Лаб 4  ! 2 !.exe.config
+C:\Users\Володимир\Desktop\Заграй лабораторні\Лаб 4  ! 2 !\Лаб 4  ! 2 !\bin\Debug\Лаб 4  ! 2 !.exe
+C:\Users\Володимир\Desktop\Заграй лабораторні\Лаб 4  ! 2 !\Лаб 4  ! 2 !\bin\Debug\Лаб 4  ! 2 !.pdb
+C:\Users\Володимир\Desktop\Заграй лабораторні\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.csproj.AssemblyReference.cache
+C:\Users\Володимир\Desktop\Заграй лабораторні\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб_4____2__.fMain.resources
+C:\Users\Володимир\Desktop\Заграй лабораторні\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб_3___2__.fPlane.resources
+C:\Users\Володимир\Desktop\Заграй лабораторні\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб_4____2__.Properties.Resources.resources
+C:\Users\Володимир\Desktop\Заграй лабораторні\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.csproj.GenerateResource.cache
+C:\Users\Володимир\Desktop\Заграй лабораторні\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.csproj.CoreCompileInputs.cache
+C:\Users\Володимир\Desktop\Заграй лабораторні\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.exe
+C:\Users\Володимир\Desktop\Заграй лабораторні\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.pdb
+F:\fhnt\Лаб 4  ! 2 !\Лаб 4  ! 2 !\bin\Debug\Лаб 4  ! 2 !.exe.config
+F:\fhnt\Лаб 4  ! 2 !\Лаб 4  ! 2 !\bin\Debug\Лаб 4  ! 2 !.exe
+F:\fhnt\Лаб 4  ! 2 !\Лаб 4  ! 2 !\bin\Debug\Лаб 4  ! 2 !.pdb
+F:\fhnt\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.csproj.AssemblyReference.cache
+F:\fhnt\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб_4____2__.fMain.resources
+F:\fhnt\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб_4____2__.Properties.Resources.resources
+F:\fhnt\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.csproj.GenerateResource.cache
+F:\fhnt\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.csproj.CoreCompileInputs.cache
+F:\fhnt\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.exe
+F:\fhnt\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.pdb
+F:\fhnt\Лаб 4  ! 2 !\Лаб 4  ! 2 !\obj\Debug\Лаб_3___2__.fComp.resources
+F:\fhnt\lab 5\Лаб 4  ! 2 !\bin\Debug\Лаб 4  ! 2 !.exe.config
+F:\fhnt\lab 5\Лаб 4  ! 2 !\bin\Debug\Лаб 4  ! 2 !.exe
+F:\fhnt\lab 5\Лаб 4  ! 2 !\bin\Debug\Лаб 4  ! 2 !.pdb
+F:\fhnt\lab 5\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.csproj.AssemblyReference.cache
+F:\fhnt\lab 5\Лаб 4  ! 2 !\obj\Debug\Лаб_4____2__.fMain.resources
+F:\fhnt\lab 5\Лаб 4  ! 2 !\obj\Debug\Лаб_3___2__.fComp.resources
+F:\fhnt\lab 5\Лаб 4  ! 2 !\obj\Debug\Лаб_4____2__.Properties.Resources.resources
+F:\fhnt\lab 5\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.csproj.GenerateResource.cache
+F:\fhnt\lab 5\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.csproj.CoreCompileInputs.cache
+F:\fhnt\lab 5\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.exe
+F:\fhnt\lab 5\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.pdb
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 3\Лаб 4  ! 2 !\bin\Debug\Лаб 4  ! 2 !.exe.config
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 3\Лаб 4  ! 2 !\bin\Debug\Лаб 4  ! 2 !.exe
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 3\Лаб 4  ! 2 !\bin\Debug\Лаб 4  ! 2 !.pdb
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 3\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.csproj.AssemblyReference.cache
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 3\Лаб 4  ! 2 !\obj\Debug\Лаб_4____2__.fMain.resources
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 3\Лаб 4  ! 2 !\obj\Debug\Лаб_3___2__.fComp.resources
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 3\Лаб 4  ! 2 !\obj\Debug\Лаб_4____2__.Properties.Resources.resources
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 3\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.csproj.GenerateResource.cache
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 3\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.csproj.CoreCompileInputs.cache
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 3\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.exe
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 3\Лаб 4  ! 2 !\obj\Debug\Лаб 4  ! 2 !.pdb

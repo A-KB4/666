@@ -1,0 +1,18 @@
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 1\bin\Debug\net5.0-windows\лаба 6 завдання 1.exe
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 1\bin\Debug\net5.0-windows\лаба 6 завдання 1.deps.json
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 1\bin\Debug\net5.0-windows\лаба 6 завдання 1.runtimeconfig.json
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 1\bin\Debug\net5.0-windows\лаба 6 завдання 1.runtimeconfig.dev.json
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 1\bin\Debug\net5.0-windows\лаба 6 завдання 1.dll
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 1\bin\Debug\net5.0-windows\ref\лаба 6 завдання 1.dll
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 1\bin\Debug\net5.0-windows\лаба 6 завдання 1.pdb
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 1\obj\Debug\net5.0-windows\лаба 6 завдання 1.csproj.AssemblyReference.cache
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 1\obj\Debug\net5.0-windows\GeometryVolumeCalculator.MainForm.resources
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 1\obj\Debug\net5.0-windows\лаба 6 завдання 1.csproj.GenerateResource.cache
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 1\obj\Debug\net5.0-windows\лаба 6 завдання 1.GeneratedMSBuildEditorConfig.editorconfig
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 1\obj\Debug\net5.0-windows\лаба 6 завдання 1.AssemblyInfoInputs.cache
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 1\obj\Debug\net5.0-windows\лаба 6 завдання 1.AssemblyInfo.cs
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 1\obj\Debug\net5.0-windows\лаба 6 завдання 1.csproj.CoreCompileInputs.cache
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 1\obj\Debug\net5.0-windows\лаба 6 завдання 1.dll
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 1\obj\Debug\net5.0-windows\ref\лаба 6 завдання 1.dll
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 1\obj\Debug\net5.0-windows\лаба 6 завдання 1.pdb
+F:\fhnt\лр 6 П та Ам\лаба 6 завдання 1\obj\Debug\net5.0-windows\лаба 6 завдання 1.genruntimeconfig.cache
